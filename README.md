@@ -1,2 +1,2 @@
 # auth-manager
-Extension for Yii2 // Another authentication manager
+Another yii2 authentication manager

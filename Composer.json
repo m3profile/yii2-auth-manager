@@ -1,9 +1,7 @@
 {
-    // package name
     "name": "m3profile/yii2-auth-manager",
 
 
-    // package type
     "type": "yii2-extension",
 
 
@@ -18,8 +16,6 @@
         }
     ],
 
-
-    // class autoloading specs
     "autoload": {
         "psr-4": {
             "m3profile\\auth-manager\\": ""

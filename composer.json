@@ -4,7 +4,6 @@
 
     "type": "yii2-extension",
 
-
     "description": "Authentication manager for the Yii framework",
     "keywords": ["yii2", "auth", "authentication", "auth-manager"],
     "license": "BSD-3-Clause",
